@@ -1,5 +1,7 @@
 # OrangeHRM Selenium Automation Framework
 
+[![Run Selenium Tests](https://github.com/srinathsqa/orangehrm-selenium-framework/actions/workflows/tests.yml/badge.svg)](https://github.com/srinathsqa/orangehrm-selenium-framework/actions/workflows/tests.yml)
+
 ![Java](https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-4-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-Framework-red?style=for-the-badge)
